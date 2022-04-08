@@ -1,5 +1,6 @@
 {  
   "roots": [
+    "<rootDir>/src",
     "<rootDir>/test"
   ],
   "testMatch": [
