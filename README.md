@@ -1,1 +1,1 @@
-# typescript-boilerplate
+# Plantilla para proyectos en typescript
