@@ -10,7 +10,8 @@
     ],
     "parser": "@typescript-eslint/parser",
     "parserOptions": {
-        "ecmaVersion": "latest"
+        "ecmaVersion": "latest",
+        "sourceType": "module"
     },
     "plugins": [
         "@typescript-eslint"
@@ -32,7 +33,17 @@
         "quotes": [
             "error",
             "double"
+        ],
+        "max-len": [
+            "error",
+            {
+                "code": 80,
+                "ignoreUrls": true,
+                "ignoreComments": true,
+                "ignoreRegExpLiterals": true,
+                "ignoreStrings": true,
+                "ignoreTemplateLiterals": true
+            }
         ]
     }
 }
-
