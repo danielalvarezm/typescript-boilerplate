@@ -2,26 +2,28 @@
     "env": {
         "browser": true,
         "es2021": true,
-        "lint": "eslint ./src ./test --ext .ts",
+        "node": true,
         "jest": true
     },
     "extends": [
-        "google",
-        "eslint:recommended",
-        "plugin:@typescript-eslint/recommended"
+        "google"
     ],
     "parser": "@typescript-eslint/parser",
     "parserOptions": {
-        "ecmaVersion": "latest",
-        "sourceType": "module"
+        "ecmaVersion": "latest"
     },
     "plugins": [
         "@typescript-eslint"
     ],
     "rules": {
+        "require-jsdoc": 0,
         "indent": [
             "error",
             2
+        ],
+        "semi": [
+            "error",
+            "always"
         ],
         "linebreak-style": [
             "error",
@@ -30,10 +32,7 @@
         "quotes": [
             "error",
             "double"
-        ],
-        "semi": [
-            "error",
-            "always"
         ]
     }
 }
+
