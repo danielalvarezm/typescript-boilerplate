@@ -32,7 +32,7 @@
         ],
         "quotes": [
             "error",
-            "double"
+            "single"
         ],
         "max-len": [
             "error",
