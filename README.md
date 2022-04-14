@@ -35,7 +35,7 @@ Paquete | Versión | Logo
    Ts-jest | 27.1.4 | ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
    ESLint | 8.13.0 | ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
   
-## Notes 📋
+## Notas 📋
 Use `npm install` para instalar todas las dependencias.
 
 Se agregó la carpeta [.vscode](/.vscode) por las siguientes razones:
