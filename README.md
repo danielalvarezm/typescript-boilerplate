@@ -7,10 +7,9 @@
 
 Package | Version | Logo
  :-: | :-: | :-:
-   Typescript | 4.6.3 | ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-   Jest | 27.5.1 | ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-   Ts-jest | 27.1.4 | ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-   ESLint | 8.13.0 | ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+   Typescript | 5.0.2 | ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+   Jest | 29.5.0 | ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+   ESLint | 8.36.0 | ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
   
 ## Notes 📋
 Use `npm install` to install all dependencies.
@@ -32,10 +31,9 @@ The [package-lock.json](/package-lock.json) file has been maintained to avoid po
 
 Paquete | Versión | Logo
  :-: | :-: | :-:
-   Typescript | 4.6.3 | ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-   Jest | 27.5.1 | ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-   Ts-jest | 27.1.4 | ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-   ESLint | 8.13.0 | ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+   Typescript | 5.0.2 | ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+   Jest | 29.5.0 | ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+   ESLint | 8.36.0 | ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
   
 ## Notas 📋
 Use `npm install` para instalar todas las dependencias.
